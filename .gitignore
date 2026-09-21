@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and local tooling
+.vscode/
+.idea/
+*.swp
+.claude/
+
+# Lightroom catalogs, previews and backups — never belong in a plug-in repo
+*.lrcat
+*.lrcat-*
+*.lrdata/
+*.lrprev
+
+# Raw test images (large binaries)
+*.CR2
+*.CR3
+*.NEF
+*.ARW
+*.RAF
+*.dng
+
+# Scratch files written by the plug-in at runtime
+wildlife-sharpness-*.txt

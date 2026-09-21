@@ -1,6 +1,6 @@
 # Wildlife Sharpness Analysis
 
-A Lightroom Classic plug-in that picks the sharpest photo out of a burst of wildlife shots, so you don't have to zoom into every frame by hand.
+A **MacOS-only** Lightroom Classic plug-in that picks the sharpest photo out of a burst of wildlife shots, so you don't have to zoom into every frame by hand.
 
 ## How it works
 

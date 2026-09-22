@@ -2,7 +2,11 @@
 
 A **MacOS-only** Lightroom Classic plug-in that picks the sharpest photo out of a burst of wildlife shots, so you don't have to zoom into every frame by hand.
 
+So far, it only works for **Canon** mirrorless cameras - the EOS R system.
+
 ## How it works
+
+There is also a small tutorial on my [website](https://jens-krause.github.io/tools/LR_Wildlife_Sharpness/sharpness.html).
 
 The plug-in adds a menu item **Library → Plug-in Extras → Pick Sharpest in Stack**.
 
